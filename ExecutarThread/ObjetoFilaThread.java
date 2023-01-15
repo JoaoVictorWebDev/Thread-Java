@@ -4,8 +4,6 @@ public class ObjetoFilaThread {
     private String nome;
     private String email;
 
-
-
     public String getNome() {
         return this.nome;
     }
@@ -21,4 +19,5 @@ public class ObjetoFilaThread {
     public void setEmail(String email) {
         this.email = email;
     }
+    
 }
